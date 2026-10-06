@@ -1,0 +1,13 @@
+{
+  "name": "Rememberly",
+  "short_name": "Rememberly",
+  "description": "A private memory assistant for reminders and shopping lists.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f8fb",
+  "theme_color": "#f7f8fb",
+  "icons": [
+    { "src": "./favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
